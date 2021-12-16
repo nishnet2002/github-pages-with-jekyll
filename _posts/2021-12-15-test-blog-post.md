@@ -1,7 +1,7 @@
 ```
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "My New Blog Post"
+date: 2021-12-15
 ---
 ```
 
